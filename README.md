@@ -6,7 +6,7 @@ Environment
 
 Visualstudio 2017 
 
-Must deploy with 66 bit
+Must deploy with 64 bit
 
-Must copy Libs\CalibrationLib.dll to deployed folder like "~\eBeamSMSDK_Win_BLE\bin\x64\Debug\AppX\"
+Must copy Libs\CalibrationLib.dll to deployed folder "~\eBeamSP3SDK_Win\bin\x64\Debug\AppX\"
 
